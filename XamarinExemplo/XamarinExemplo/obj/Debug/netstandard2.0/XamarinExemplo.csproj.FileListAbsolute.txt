@@ -1,0 +1,15 @@
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\bin\Debug\netstandard2.0\XamarinExemplo.deps.json
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\bin\Debug\netstandard2.0\XamarinExemplo.dll
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\bin\Debug\netstandard2.0\ref\XamarinExemplo.dll
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\bin\Debug\netstandard2.0\XamarinExemplo.pdb
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamarinExemplo.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamarinExemplo.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamarinExemplo.AssemblyInfo.cs
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamarinExemplo.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamarinExemplo.dll
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\ref\XamarinExemplo.dll
+C:\Users\paulo\source\repos\XamarinExemplo\XamarinExemplo\obj\Debug\netstandard2.0\XamarinExemplo.pdb

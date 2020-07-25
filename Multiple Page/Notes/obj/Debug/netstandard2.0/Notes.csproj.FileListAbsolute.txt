@@ -1,0 +1,26 @@
+C:\Xamarin\Multiple Page\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Xamarin\Multiple Page\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Multiple Page\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Aula 9 - Navegação\Multiple Page\Notes\obj\Debug\netstandard2.0\Notes.pdb

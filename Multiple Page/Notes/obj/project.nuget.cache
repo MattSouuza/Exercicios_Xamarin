@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOz0HZbMZrk5mssxfZZWtcVwP9mTErLgxRmdGNe+mtHNXGd43rnba5g7Hw7lQYMNaMyIXqehXmwdJqUto9UGPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Multiple Page\\Notes\\Notes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}

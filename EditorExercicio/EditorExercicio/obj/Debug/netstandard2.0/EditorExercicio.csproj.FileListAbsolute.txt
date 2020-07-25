@@ -1,0 +1,14 @@
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\bin\Debug\netstandard2.0\EditorExercicio.deps.json
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\bin\Debug\netstandard2.0\EditorExercicio.dll
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\bin\Debug\netstandard2.0\ref\EditorExercicio.dll
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\bin\Debug\netstandard2.0\EditorExercicio.pdb
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\EditorExercicio.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\EditorExercicio.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\EditorExercicio.AssemblyInfo.cs
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\EditorExercicio.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\EditorExercicio.dll
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\ref\EditorExercicio.dll
+C:\Users\paulo\source\repos\EditorExercicio\EditorExercicio\obj\Debug\netstandard2.0\EditorExercicio.pdb

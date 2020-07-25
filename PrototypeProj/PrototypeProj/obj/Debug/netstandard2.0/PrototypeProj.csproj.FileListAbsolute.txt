@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\PrototypeProj.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\Views\Menu.xaml.g.cs
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\PrototypeProj.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\PrototypeProj.AssemblyInfo.cs
+C:\Users\paulo\source\repos\PrototypeProj\PrototypeProj\obj\Debug\netstandard2.0\PrototypeProj.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\bin\Debug\netstandard2.0\teste_SQLite.deps.json
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\bin\Debug\netstandard2.0\teste_SQLite.dll
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\teste_SQLite.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\teste_SQLite.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\teste_SQLite.AssemblyInfo.cs
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\teste_SQLite.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\teste_SQLite.dll
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\ref\teste_SQLite.dll
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\teste_SQLite.pdb
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\bin\Debug\netstandard2.0\ref\teste_SQLite.dll
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\bin\Debug\netstandard2.0\teste_SQLite.pdb
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\Views\MenuMaster.xaml.g.cs
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\paulo\source\repos\teste_SQLite\teste_SQLite\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs

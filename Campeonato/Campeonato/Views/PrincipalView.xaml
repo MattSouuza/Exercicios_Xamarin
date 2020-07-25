@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Campeonato.Views.PrincipalView"
+             Title="Principal">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Image Source="baseline_clear_black_18dp.png" HorizontalOptions="Start" VerticalOptions="Start"/>
+                <Label Text="08/07/2014" HorizontalOptions="Start" TextColor="Black" VerticalOptions="StartAndExpand" FontSize="25"/>
+                <Image Source="baseline_search_black_18dp.png" HorizontalOptions="EndAndExpand" VerticalOptions="Start"/>
+            </StackLayout>
+
+            <ListView HasUnevenRows="True" ItemsSource="{Binding Jogos}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10,0,10,0">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding DataFormatada}" HorizontalOptions="Start" FontSize="16"/>
+                                    <Label Text="{Binding Estadio}" HorizontalOptions="EndAndExpand" FontSize="16"/>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Image 
+                                        Source="{Binding SelecaoCasa}"
+                                        WidthRequest="100"   
+                                        />
+                                    <Label
+                                        Text="{Binding PlacarCasa}"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="CenterAndExpand"
+                                        FontSize="20"
+                                        />
+                                    <Label
+                                        Text="X"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="CenterAndExpand"
+                                        FontSize="20"
+                                            />
+                                    <Label
+                                        Text="{Binding PlacarVisitante}"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="CenterAndExpand"
+                                        FontSize="20"
+                                        />
+                                    <Image 
+                                        Source="{Binding SelecaoVisitante}"
+                                        WidthRequest="100"
+                                        />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout
+                                        Orientation="Horizontal"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="CenterAndExpand"
+                                        >
+                                        <Label
+                                            Text="{Binding PenaltisCasa}"
+                                            FontSize="16"
+                                            HorizontalOptions="StartAndExpand"
+                                            />
+                                        <Label
+                                            Text="X"
+                                            FontSize="16"
+                                            />
+                                        <Label
+                                            Text="{Binding PenaltisVisitante}"
+                                            FontSize="16"
+                                            HorizontalOptions="EndAndExpand"
+                                            />
+                                    </StackLayout>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+                
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

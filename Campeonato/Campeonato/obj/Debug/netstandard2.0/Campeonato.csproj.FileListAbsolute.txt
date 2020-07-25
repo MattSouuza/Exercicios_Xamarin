@@ -1,0 +1,33 @@
+C:\Users\paulo\source\repos\Campeonato\Campeonato\bin\Debug\netstandard2.0\Campeonato.deps.json
+C:\Users\paulo\source\repos\Campeonato\Campeonato\bin\Debug\netstandard2.0\Campeonato.dll
+C:\Users\paulo\source\repos\Campeonato\Campeonato\bin\Debug\netstandard2.0\ref\Campeonato.dll
+C:\Users\paulo\source\repos\Campeonato\Campeonato\bin\Debug\netstandard2.0\Campeonato.pdb
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.dll
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\ref\Campeonato.dll
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.pdb
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\bin\Debug\netstandard2.0\Campeonato.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\bin\Debug\netstandard2.0\Campeonato.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\bin\Debug\netstandard2.0\ref\Campeonato.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\bin\Debug\netstandard2.0\Campeonato.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\ref\Campeonato.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.pdb
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs

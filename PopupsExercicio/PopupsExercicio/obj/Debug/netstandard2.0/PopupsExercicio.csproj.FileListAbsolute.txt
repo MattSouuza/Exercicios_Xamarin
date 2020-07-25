@@ -1,0 +1,14 @@
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\bin\Debug\netstandard2.0\PopupsExercicio.deps.json
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\bin\Debug\netstandard2.0\PopupsExercicio.dll
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\bin\Debug\netstandard2.0\ref\PopupsExercicio.dll
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\bin\Debug\netstandard2.0\PopupsExercicio.pdb
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\PopupsExercicio.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\PopupsExercicio.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\PopupsExercicio.AssemblyInfo.cs
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\PopupsExercicio.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\PopupsExercicio.dll
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\ref\PopupsExercicio.dll
+C:\Users\paulo\source\repos\PopupsExercicio\PopupsExercicio\obj\Debug\netstandard2.0\PopupsExercicio.pdb

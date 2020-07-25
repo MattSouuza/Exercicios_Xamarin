@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5O4CK58Aug7KEQyGtgPfLheVvDNPmNN1Jxk1YdnAIPQzp7Q4T4NRPhitvIoQCCdrPEn0/EBzZZQ6BfaTkEv9Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Multiple Page\\Notes.iOS\\Notes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
